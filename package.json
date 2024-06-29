@@ -20,6 +20,6 @@
     "vite-plugin-singlefile": "^2.0.1"
   },
   "dependencies": {
-    "@xpbox/sdk": "^0.0.1"
+    "@xpbox/sdk": "^0.0.2"
   }
 }
